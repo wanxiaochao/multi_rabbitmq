@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: multi-rabbitmq
+  rabbitmq:
+    first:
+      host: 121.89.210.180
+      port: 5672
+      username: guest
+      password: guest
+    second:
+      host: 121.89.210.180
+      port: 5682
+      username: guest
+      password: guest
